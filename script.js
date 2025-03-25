@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const clickSound = new Audio("assets/click.wav");
+    const clickSound = new Audio("assets/click.mp3");
 
     document.querySelectorAll("button").forEach(button => {
         button.addEventListener("click", () => {
