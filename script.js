@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Load the click sound
-    const clickSound = new Audio("click.mp3"); 
+    const clickSound = new Audio("assets/click.mp3"); 
 
     // Select all buttons
     const buttons = document.querySelectorAll("button");
